@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup as bs
 import re
 import os
 
-# that's the last and the most complicated part of project, so I decided to post only it
-
 # get parameters from user
 number_of_page = int(input())
 type_of_article = input()
